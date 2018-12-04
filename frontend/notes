@@ -1,0 +1,66 @@
+<form action="#"></form>  < daar linkt hij heen als je op verstuur drukt
+
+
+<fieldset></fieldset>  < section voor formulieren, groeperen van input types
+
+
+<legend></legend>  < titel voor een form. geen h1 oid
+
+
+required type="text"> < moet ingevuld worden. kan gestyled worden met :valid en  :invalid bijv: 
+
+form:invalid {
+background: red;
+}
+
+als iets goed is, dus valid, kan je ook dingen laten zien doormiddel van:
+
+fieldset:valid p {
+display:block;
+color:white;
+background:green;
+
+}
+
+
+
+<input type="email">   < herkent email @
+
+
+pattern="#"  < herkent postcode binnen form. postcode opzoeken en bij # neerzetten
+
+
+<input type=date>   < laat gelijk datumprikker zien
+
+
+[center]
+
+[img]https://i.imgur.com/Mh2eh8b.png[/img]
+
+Yaaaay!
+
+Het is weer tijd voor het wel besproken kerst event van My Horsez! Dit jaar
+hebben we uiteraard weer gezellige teams op het spel. Welkom bij de 
+Schaatsclub! :-D Het beste en leukste team wat er is! Dus, slijp je schaatsen
+en gaan met die banaan! :-D [img]https://media.giphy.com/media/CytW6aHJtRmyA/giphy.gif[/img]
+
+[img]https://i.imgur.com/jrsUCJf.png[/img]
+
+Wij stellen de teamcaptains voor:
+
+Koekeldoedeltje, Imagination, Sapience
+
+
+
+[img]https://i.imgur.com/jrsUCJf.png[/img]
+
+Laten we er een leuk event met z’n allen van maken! ;D
+
+[img]https://66.media.tumblr.com/180c13f0939eef8f08a89809747b3479/tumblr_p3efb3wTHW1rkd4a4o1_500.gif[/img]
+[/center]
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+
+/*algemeen opmaak*/
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+
+}
+
+h1 {
+    font-family:helvetica neue,  sans-serif;
+}
+
+
+h2 {
+    font-family:helvetica neue,  sans-serif;
+}
+
+
+
+h3 {
+    font-family: helvetica neue, sans-serif;
+}
+
+
+p {
+    font-family:helvetica neue, sans-serif;
+    
+}
+
+
+a {
+    font-family: helvetica neue, sans-serif;
+}
+
+
+/*header opmaak*/
+
+
+
+header h1 {
+    height:6em;
+    padding-top: 2em;
+    color:white;
+    text-align: center;
+    background-image:url(https://valholl-prd.s3.amazonaws.com/images/Premium_lendingarsida_mynd_186.320b3f45.fill-1680x800-c0.png);
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+
+
+header img {
+    width:100%;
+
+}
+
+
+/* filter opmaak */
+
+
+form {
+    text-align: center;
+    display: block;
+    padding-bottom: 1em;
+    background-color: #f9f9f9;
+    border: 1px darkgrey;
+}
+
+form h2 {
+    background-color: purple;
+    height:3em;
+    color:white;
+    padding-top: 1em;
+    text-transform: uppercase;
+}
+
+form h2, h3 {
+    text-align: center;
+}
+
+select {
+    display: block;
+    width:100%;
+    font-family: helvetica;
+    height:3em;
+    
+}
+
+
+
+/*artikelen opmaak*/
+
+
+article {
+    width: 20em;
+    border: 1px solid green;
+    margin: 1em;
+    padding: 1em;
+    transition: 1s;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+article img {
+    width: 100%;
+    width: calc(100% + 2em);
+    margin-left: -1em;
+    margin-top: -1em;
+}
+
+article:hover {
+    border-color: purple;
+    border-width: 6px;
+    
+}
+
+
+/*bundel opmaak*/
+
+
+
+#bundels img {
+    width:100%;
+}
+
+#bundels h2 {
+    text-align: center;
+    margin-top: 3em;
+}
+
+
+/*footer opmaak*/
+
+
+footer {
+    background-color:#f4eee8;
+}
+
+footer img {
+    width:100%;
+}
